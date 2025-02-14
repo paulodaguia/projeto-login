@@ -10,6 +10,7 @@
         float: left;
         width: 30%;
         height: 100%;
+        background-position: center;
     }
 
     section#login > div#formulario{
