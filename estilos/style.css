@@ -34,6 +34,8 @@ section#login{
 
     transition: width .3s, heigth .3s;
     transition-timing-function: ease;
+
+    white-space: nowrap;
 }
 
 section#login > div#imagem{
